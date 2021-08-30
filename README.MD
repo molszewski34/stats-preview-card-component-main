@@ -1,6 +1,6 @@
 # 3-column preview card component solution
 
-![image](https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.png)
+![image](https://github.com/molszewski34/stats-preview-card-component-main/blob/main/stats-preview-card-component-main.png)
 
 stats-preview-component-main is a simple site build with only html and css. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
